@@ -104,6 +104,7 @@ The LabSim catalogue now advertises nine learning labs: Ohm's Law, sorting visua
 
 LearnBridge includes a tutor prompt flow backed by the `/api/ai` service. Configure `AI_BASE_URL`, `AI_API_KEY`, and `AI_MODEL` in the server environment to enable a live OpenAI-compatible chat completion provider. Without provider credentials, the app uses a clearly labeled rules-based fallback. Never commit API keys into the ZIP or frontend.
 
+
 ## WEBSITE
 ==== Final LIVE WORKING WEBSITE URL ====
 https://studtechgoat-dzcggycb.manus.space/
